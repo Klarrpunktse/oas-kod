@@ -1,4 +1,5 @@
 import React from "react";
+import "./PickedProductComponent.css";
 
 function PickedProductComponent() {
   return (

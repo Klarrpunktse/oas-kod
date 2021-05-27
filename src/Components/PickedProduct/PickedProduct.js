@@ -2,7 +2,7 @@ import React from "react";
 import Image from "./product-picked.png";
 import Plus from "./plus.png";
 import Minus from "./minus.png";
-import "../../App.css";
+import "./PickedProduct.css";
 // import PickedProductComponent from "./PickedProductComponent";
 
 function Picked() {

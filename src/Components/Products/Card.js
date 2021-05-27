@@ -1,11 +1,12 @@
-import React from "react";
+import React, { useState } from "react";
 import Image from "./supplement.png";
+import "./Card.css";
 
-function Card(props) {
+function Card({ product }) {
   return (
     <div className="products-card">
       <img src={Image} alt="" />
-      <h4>{props.product}</h4>
+      <h4>{product}</h4>
     </div>
   );
 }

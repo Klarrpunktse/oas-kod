@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAMA,AAAA,gCAAgC,CAAC;EAC/B,SAAS,EAAE,IAAI;EACf,UAAU,EAAE,MAAM;EAClB,WAAW,EAAE,GAAG;EAChB,WAAW,EAAE,SAAS;CACvB",
-    "sources": [
-        "PickedProductComponent.scss"
-    ],
-    "names": [],
-    "file": "PickedProductComponent.css"
-}
